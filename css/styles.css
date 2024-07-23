@@ -1,0 +1,38 @@
+p {
+  color: white;
+  background-color: blue;
+}
+
+.fancy {
+  font-family: cursive;
+}
+
+.red {
+  color: red;
+}
+
+.box {
+  border: 1px solid black;
+}
+
+#truck-image {
+  width: 200px;
+  height: 200px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header,
+footer {
+  background-color: gray;
+}
+header,
+span {
+  color: chocolate;
+}
