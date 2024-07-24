@@ -36,3 +36,8 @@ header,
 span {
   color: chocolate;
 }
+
+header {
+  display: flex;
+  flex-direction: column;
+}
